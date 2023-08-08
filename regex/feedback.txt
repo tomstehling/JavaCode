@@ -1,0 +1,80 @@
+Excercise :  Mission completed 
+Filtert nach Woertern, die ein "auf" enthalten. 
+In Gruen sind die Woerter aufgefuehrt, die ihr filtern solltet. In Rot sind Woerter aufgefuehrt, die ihr nicht filtern solltet.
+
+
+Excercise :  Mission completed 
+Filtert nach Woertern, die Kleinbuchstaben enthalten. 
+In Gruen sind die Woerter aufgefuehrt, die ihr filtern solltet. In Rot sind Woerter aufgefuehrt, die ihr nicht filtern solltet.
+
+
+Excercise :  Mission completed 
+Filtert nach Ausdruecken, die Zahlen enthalten. 
+In Gruen sind die Woerter aufgefuehrt, die ihr filtern solltet. In Rot sind Woerter aufgefuehrt, die ihr nicht filtern solltet.
+
+
+Excercise :  Mission completed 
+Filtert nach Ausdruecken, die sowohl Klein- als auch Grossbuchstauben enthalten. 
+In Gruen sind die Woerter aufgefuehrt, die ihr filtern solltet. In Rot sind Woerter aufgefuehrt, die ihr nicht filtern solltet.
+
+
+Excercise :  Mission completed 
+Filtert nach Ausdruecken, die ein Whitespace (Leertaste, Zeilenumbruch, Tab) enthalten. 
+In Gruen sind die Woerter aufgefuehrt, die ihr filtern solltet. In Rot sind Woerter aufgefuehrt, die ihr nicht filtern solltet.
+
+
+Excercise :  Mission completed 
+Filtert nach Woertern, die nur aus Kleinbuchstaben von a - n bestehen. 
+ In Gruen sind die Woerter aufgefuehrt, die ihr filtern solltet. In Rot sind Woerter aufgefuehrt, die ihr nicht filtern solltet.
+
+
+Excercise :  Waiting to be solved 
+Filtert nach Ausdruecken, die mit 1-2 Zahlen bestehen, gefolgt von 1-2 Zahlen, gefolgt von 2-4 Zahlen.
+In Gruen sind die Woerter aufgefuehrt, die ihr filtern solltet. In Rot sind Woerter aufgefuehrt, die ihr nicht filtern solltet.
+
+
+Excercise :  Waiting to be solved 
+Filtert nach Ausdruecken, die mit www. beginnen und mit .de aufhoeren. Dazwischen duerfen nur Gross- und Kleinbuchstaben sowie Zahlen stehen. 
+In Gruen sind die Woerter aufgefuehrt, die ihr filtern solltet. In Rot sind Woerter aufgefuehrt, die ihr nicht filtern solltet.
+
+
+Excercise :  Waiting to be solved 
+Filtert nach Woertern, die mit s oder S beginnen, aber nicht mit s aufhoeren. Diese Woerter duerfen nur aus Buchstaben bestehen und haben ab dem 2. Buchstaben nur kleine Buchstaben. In Gruen sind die Woerter aufgefuehrt, die ihr filtern solltet. In Rot sind Woerter aufgefuehrt, die ihr nicht filtern solltet.
+
+
+Excercise :  Waiting to be solved 
+Filtert nach Namen. Diese Namen duerfen nur aus Buchstaben bestehen und koennen Leerzeichen enthalten. Ab dem 2. Buchstaben duerfen nur kleine Buchstaben. Der erste Buchstabe darf kleingeschrieben sein. Es duerfen keine zwei Leerzeichen aufeinander folgen. In Gruen sind die Woerter aufgefuehrt, die ihr filtern solltet. In Rot sind Woerter aufgefuehrt, die ihr nicht filtern solltet.
+
+
+Excercise :  Waiting to be solved 
+Filtert nach Woertern, die mit a, A, B, b, c, C, d oder D beginnen und mit n aufhoeren. Diese Woerter duerfen nur aus Buchstaben bestehen und haben ab dem 2. Buchstaben nur kleine Buchstaben.In Gruen sind die Woerter aufgefuehrt, die ihr filtern solltet. In Rot sind Woerter aufgefuehrt, die ihr nicht filtern solltet.
+
+
+Excercise :  Waiting to be solved 
+Filtert nach Woertern, die mit a oder A beginnen und ein n im Wort haben. Diese Woerter duerfen nur aus Buchstaben bestehen und haben ab dem 2. Buchstaben nur kleine Buchstaben. In Gruen sind die Woerter aufgefuehrt, die ihr filtern solltet. In Rot sind Woerter aufgefuehrt, die ihr nicht filtern solltet.
+
+
+Excercise :  Waiting to be solved 
+Stellt euch vor ihr haettet eine riesige Log-Datei eines Spiels. Immer wenn jemand einen neuen Rekord aufstellt, wird dies in der Log-Datei mit einem Zeitstempel (z.B.: 22:34:02) und einer entsprechenden Nachricht eingetragen. Ihr sollt die Zeilen aus der Log-Datei filtern, die so einen Zeitstempel haben, achtet darauf, dass im Zeitstempel auch nur gueltige Uhrzeiten stehen koennen. In so einer Zeile koennen Zahlen, Buchstaben, Leerzeichen, Doppelpunkte, Satzzeichen auftreten. Ihr sollt die komplette Zeile filtern.In Gruen sind die Woerter aufgefuehrt, die ihr filtern solltet. In Rot sind Woerter aufgefuehrt, die ihr nicht filtern solltet.
+
+
+Excercise :  Waiting to be solved 
+Schreibt eine Methode boolean emailCheck(String email), dabei sollt ihr pr�fen, ob die Email-Adresse ein Mix aus Buchstaben und Zahlen, gefolgt von einem @, danach sind Buchstaben erlaubt, ein Punkt muss folgen und danach muessen 2-4 Buchstaben wieder folgen. Eure emailCheck()-Methode soll pr�fen, ob angegebene Email-Adressen diesem Schema folgen. In Gruen sind die Woerter aufgefuehrt, die ihr filtern solltet. In Rot sind Woerter aufgefuehrt, die ihr nicht filtern solltet.
+
+
+Excercise :  Waiting to be solved 
+Filtert nach Ausdruecken, die mit 1-2 Zahlen bestehen, gefolgt von 1-2 Zahlen, gefolgt von 2 oder 4 Zahlen.In Gruen sind die Woerter aufgefuehrt, die ihr filtern solltet. In Rot sind Woerter aufgefuehrt, die ihr nicht filtern solltet.
+
+
+Excercise :  Waiting to be solved 
+Filtert, ob der Ausdruck ein gueltiger Identifier(Bezeichner/Variablenname) ist. Gueltig ist der Name, wenn er mit einem Buchstaben, $ oder _ beginnt. Die folgenden Zeichen k�nnen Buchstaben, Zahlen, _ und $ sein.In Gruen sind die Woerter aufgefuehrt, die ihr filtern solltet. In Rot sind Woerter aufgefuehrt, die ihr nicht filtern solltet.
+
+
+Excercise :  Waiting to be solved 
+Erweitert eure Aufgabe und prueft, ob eine boolean Variable richtig deklariert wurde. Zwischen dem Datentyp und dem Variablennamen etc. muss mindestens ein Whitespace. Damit darf auch ein Zeilenumbruch stehen.In Gruen sind die Woerter aufgefuehrt, die ihr filtern solltet. In Rot sind Woerter aufgefuehrt, die ihr nicht filtern solltet.
+
+
+Excercise :  Waiting to be solved 
+Filtert nach Ausdruecken, die ein richtiges Datum enthalten. Das Jahr soll dabei 4-stellig seinIn Gruen sind die Woerter aufgefuehrt, die ihr filtern solltet. In Rot sind Woerter aufgefuehrt, die ihr nicht filtern solltet.
+
+
